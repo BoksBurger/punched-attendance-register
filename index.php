@@ -7,7 +7,7 @@ require "start.php";
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>RNS Attendance Register</title>
+    <title>Punched Attendance Register</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" href="js/jquery-ui/themes/smoothness/jquery-ui.min.css">
@@ -132,7 +132,7 @@ require "start.php";
         </div> -->
         <div class="row" id="footerTag">
             <div class="col-md-12">
-                RNS Time &amp Attendance System 2019
+                Punched Attendance Register
             </div>
         </div>
     </div>
