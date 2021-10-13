@@ -7,14 +7,10 @@
 date_default_timezone_set("Africa/Johannesburg");
 function makeContact()
 {
-    $servername = "50.87.249.167";
-    $username = "staalbur_RNSAtt";
-    $password = "4jnbErrw?-zV";
-    $dbname = "staalbur_RNSAttendacne";
-    // $servername = "localhost";
-    // $username = "staalbur_RNSAtt";
-    // $password = "4jnbErrw?-zV";
-    // $dbname = "staalbur_rnsattendacne";
+    $servername = "127.0.0.1"; // Youer IP here...
+    $username = "db_UserName"; // Youer db_UserName here...
+    $password = "db_Password"; // Youer db_Password here...
+    $dbname = "db_Name"; // Youer db_Name here...
     $conn = new mysqli($servername, $username, $password, $dbname, null, null);
     $conn->query("SET time_zone = 'Africa/Johannesburg'");
     if ($conn->connect_error) {
