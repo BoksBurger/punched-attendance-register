@@ -1,7 +1,7 @@
 # Punched Attendance Register
 ### Record and report staff attendance
 
-With COVID being a thing, no-one wants to toutch anything anymore.
+With COVID being a thing, no-one wants to touch anything anymore.
 
 Punch in by simply visiting a URL from your PC.
 
