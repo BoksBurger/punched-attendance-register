@@ -1,0 +1,1448 @@
+[07-Mar-2019 11:47:53 Africa/Johannesburg] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, int given in C:\inetpub\wwwroot\Attendance\render-register.php on line 102
+[07-Mar-2019 11:47:53 Africa/Johannesburg] PHP Stack trace:
+[07-Mar-2019 11:47:53 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[07-Mar-2019 11:47:53 Africa/Johannesburg] PHP   2. loadAttendance() C:\inetpub\wwwroot\Attendance\loadAttendance.php:25
+[07-Mar-2019 11:47:53 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\loadAttendance.php:75
+[07-Mar-2019 11:47:53 Africa/Johannesburg] PHP   4. date_diff() C:\inetpub\wwwroot\Attendance\render-register.php:102
+[07-Mar-2019 11:48:23 Africa/Johannesburg] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, int given in C:\inetpub\wwwroot\Attendance\render-register.php on line 102
+[07-Mar-2019 11:48:23 Africa/Johannesburg] PHP Stack trace:
+[07-Mar-2019 11:48:23 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[07-Mar-2019 11:48:23 Africa/Johannesburg] PHP   2. buildRegister() C:\inetpub\wwwroot\Attendance\index.php:145
+[07-Mar-2019 11:48:23 Africa/Johannesburg] PHP   3. date_diff() C:\inetpub\wwwroot\Attendance\render-register.php:102
+[08-Mar-2019 12:49:15 Africa/Johannesburg] PHP Notice:  Undefined variable: _SESSION in C:\inetpub\wwwroot\Attendance\bookleave.php on line 9
+[08-Mar-2019 12:49:15 Africa/Johannesburg] PHP Stack trace:
+[08-Mar-2019 12:49:15 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[08-Mar-2019 12:49:15 Africa/Johannesburg] PHP   2. bookLeave() C:\inetpub\wwwroot\Attendance\bookleave.php:20
+[08-Mar-2019 15:47:36 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '=' in C:\inetpub\wwwroot\Attendance\render-register.php on line 73
+[11-Mar-2019 16:45:01 Africa/Johannesburg] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, int given in C:\inetpub\wwwroot\Attendance\render-register.php on line 117
+[11-Mar-2019 16:45:01 Africa/Johannesburg] PHP Stack trace:
+[11-Mar-2019 16:45:01 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[11-Mar-2019 16:45:01 Africa/Johannesburg] PHP   2. loadAttendance() C:\inetpub\wwwroot\Attendance\loadAttendance.php:25
+[11-Mar-2019 16:45:01 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\loadAttendance.php:75
+[11-Mar-2019 16:45:01 Africa/Johannesburg] PHP   4. date_diff() C:\inetpub\wwwroot\Attendance\render-register.php:117
+[11-Mar-2019 16:45:28 Africa/Johannesburg] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, int given in C:\inetpub\wwwroot\Attendance\render-register.php on line 117
+[11-Mar-2019 16:45:28 Africa/Johannesburg] PHP Stack trace:
+[11-Mar-2019 16:45:28 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[11-Mar-2019 16:45:28 Africa/Johannesburg] PHP   2. buildRegister() C:\inetpub\wwwroot\Attendance\index.php:149
+[11-Mar-2019 16:45:28 Africa/Johannesburg] PHP   3. date_diff() C:\inetpub\wwwroot\Attendance\render-register.php:117
+[11-Mar-2019 19:24:47 UTC] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(C:\WINDOWS\TEMP) failed: No error (0) in C:\inetpub\wwwroot\Attendance\index.php on line 2
+[11-Mar-2019 19:24:47 UTC] PHP Stack trace:
+[11-Mar-2019 19:24:47 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[11-Mar-2019 19:24:47 UTC] PHP   2. session_start() C:\inetpub\wwwroot\Attendance\index.php:2
+[12-Mar-2019 17:18:06 Africa/Johannesburg] PHP Notice:  Undefined index: date in C:\inetpub\wwwroot\Attendance\loadAttendance.php on line 9
+[12-Mar-2019 17:18:06 Africa/Johannesburg] PHP Stack trace:
+[12-Mar-2019 17:18:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[12-Mar-2019 17:25:05 Africa/Johannesburg] PHP Notice:  Undefined index: date in C:\inetpub\wwwroot\Attendance\loadAttendance.php on line 9
+[12-Mar-2019 17:25:05 Africa/Johannesburg] PHP Stack trace:
+[12-Mar-2019 17:25:05 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[12-Mar-2019 17:32:39 Africa/Johannesburg] PHP Notice:  Undefined index: date in C:\inetpub\wwwroot\Attendance\loadAttendance.php on line 9
+[12-Mar-2019 17:32:39 Africa/Johannesburg] PHP Stack trace:
+[12-Mar-2019 17:32:39 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[12-Mar-2019 17:32:56 Africa/Johannesburg] PHP Notice:  Undefined index: date in C:\inetpub\wwwroot\Attendance\loadAttendance.php on line 9
+[12-Mar-2019 17:32:56 Africa/Johannesburg] PHP Stack trace:
+[12-Mar-2019 17:32:56 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[12-Mar-2019 17:33:15 Africa/Johannesburg] PHP Notice:  Undefined index: date in C:\inetpub\wwwroot\Attendance\loadAttendance.php on line 9
+[12-Mar-2019 17:33:15 Africa/Johannesburg] PHP Stack trace:
+[12-Mar-2019 17:33:15 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[13-Mar-2019 05:08:39 UTC] PHP Notice:  Undefined variable: conn in C:\inetpub\wwwroot\Attendance\start.php on line 24
+[13-Mar-2019 05:08:39 UTC] PHP Stack trace:
+[13-Mar-2019 05:08:39 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 05:08:39 UTC] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:2
+[13-Mar-2019 05:08:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\inetpub\wwwroot\Attendance\start.php:24
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\index.php(2): require()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\start.php on line 24
+[13-Mar-2019 09:06:06 Africa/Johannesburg] PHP Notice:  Undefined variable: conn in C:\inetpub\wwwroot\Attendance\start.php on line 24
+[13-Mar-2019 09:06:06 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 09:06:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 09:06:06 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:3
+[13-Mar-2019 09:06:06 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\inetpub\wwwroot\Attendance\start.php:24
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\index.php(3): require()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\start.php on line 24
+[13-Mar-2019 09:06:53 Africa/Johannesburg] PHP Notice:  Undefined variable: conn in C:\inetpub\wwwroot\Attendance\start.php on line 24
+[13-Mar-2019 09:06:53 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 09:06:53 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 09:06:53 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:2
+[13-Mar-2019 09:06:53 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\inetpub\wwwroot\Attendance\start.php:24
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\index.php(2): require()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\start.php on line 24
+[13-Mar-2019 09:07:02 Africa/Johannesburg] PHP Notice:  Undefined variable: conn in C:\inetpub\wwwroot\Attendance\start.php on line 24
+[13-Mar-2019 09:07:02 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 09:07:02 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 09:07:02 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:2
+[13-Mar-2019 09:07:02 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\inetpub\wwwroot\Attendance\start.php:24
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\index.php(2): require()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\start.php on line 24
+[13-Mar-2019 09:43:10 Africa/Johannesburg] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\inetpub\wwwroot\Attendance\start.php on line 19
+[13-Mar-2019 09:43:10 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 09:43:10 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 09:43:10 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:2
+[13-Mar-2019 09:43:10 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in C:\inetpub\wwwroot\Attendance\render-register.php:6
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\render-register.php(41): leaveDays('1')
+#1 C:\inetpub\wwwroot\Attendance\index.php(55): buildRegister(Object(mysqli), '1', 'March 2019')
+#2 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 6
+[13-Mar-2019 09:43:38 Africa/Johannesburg] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\inetpub\wwwroot\Attendance\start.php on line 19
+[13-Mar-2019 09:43:38 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 09:43:38 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 09:43:38 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:2
+[13-Mar-2019 09:44:44 Africa/Johannesburg] PHP Notice:  Undefined property: mysqli::$num_rows in C:\inetpub\wwwroot\Attendance\start.php on line 19
+[13-Mar-2019 09:44:44 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 09:44:44 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 09:44:44 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:2
+[13-Mar-2019 09:44:44 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in C:\inetpub\wwwroot\Attendance\render-register.php:6
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\render-register.php(41): leaveDays('1')
+#1 C:\inetpub\wwwroot\Attendance\index.php(55): buildRegister(Object(mysqli), '1', 'March 2019')
+#2 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 6
+[13-Mar-2019 09:45:07 Africa/Johannesburg] PHP Notice:  Undefined property: mysqli::$num_rows in C:\inetpub\wwwroot\Attendance\start.php on line 19
+[13-Mar-2019 09:45:07 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 09:45:07 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 09:45:07 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:2
+[13-Mar-2019 09:50:00 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in C:\inetpub\wwwroot\Attendance\render-register.php:6
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\render-register.php(41): leaveDays('1')
+#1 C:\inetpub\wwwroot\Attendance\index.php(55): buildRegister(Object(mysqli), '1', 'March 2019')
+#2 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 6
+[13-Mar-2019 09:54:42 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in C:\inetpub\wwwroot\Attendance\loadAttendance.php:38
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\loadAttendance.php(4): loadAttendance('12 March 2019', '1', false)
+#1 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\loadAttendance.php on line 38
+[13-Mar-2019 09:54:45 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in C:\inetpub\wwwroot\Attendance\loadAttendance.php:38
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\loadAttendance.php(4): loadAttendance(' March 2019', '1', false)
+#1 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\loadAttendance.php on line 38
+[13-Mar-2019 10:35:35 Africa/Johannesburg] PHP Notice:  Array to string conversion in C:\inetpub\wwwroot\Attendance\index.php on line 130
+[13-Mar-2019 10:35:35 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 10:35:35 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 10:35:37 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 130
+[13-Mar-2019 10:35:37 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 10:35:37 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 10:50:25 Africa/Johannesburg] PHP Notice:  Array to string conversion in C:\inetpub\wwwroot\Attendance\index.php on line 130
+[13-Mar-2019 10:50:25 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 10:50:25 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 10:50:29 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 130
+[13-Mar-2019 10:50:29 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 10:50:29 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 10:53:25 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 130
+[13-Mar-2019 10:53:25 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 10:53:25 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 10:53:30 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 130
+[13-Mar-2019 10:53:30 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 10:53:30 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 10:53:41 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 130
+[13-Mar-2019 10:53:41 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 10:53:41 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 10:53:51 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 130
+[13-Mar-2019 10:53:51 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 10:53:51 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 10:55:40 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 130
+[13-Mar-2019 10:55:40 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 10:55:40 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 10:56:18 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 130
+[13-Mar-2019 10:56:18 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 10:56:18 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 11:00:07 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 130
+[13-Mar-2019 11:00:07 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 11:00:07 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 11:00:18 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 130
+[13-Mar-2019 11:00:18 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 11:00:18 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 11:06:37 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 130
+[13-Mar-2019 11:06:37 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 11:06:37 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 11:06:46 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 130
+[13-Mar-2019 11:06:46 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 11:06:46 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 11:09:01 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 130
+[13-Mar-2019 11:09:01 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 11:09:01 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 11:09:05 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 130
+[13-Mar-2019 11:09:05 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 11:09:05 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 11:18:05 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 136
+[13-Mar-2019 11:18:05 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 11:18:05 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 12:05:47 Africa/Johannesburg] PHP Notice:  Undefined variable: _SESSION in C:\inetpub\wwwroot\Attendance\start.php on line 5
+[13-Mar-2019 12:05:47 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 12:05:47 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 12:05:47 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:2
+[13-Mar-2019 12:05:47 Africa/Johannesburg] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\inetpub\wwwroot\Attendance\start.php on line 26
+[13-Mar-2019 12:05:47 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 12:05:47 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 12:05:47 Africa/Johannesburg] PHP   2. greetEmployee() C:\inetpub\wwwroot\Attendance\index.php:57
+[13-Mar-2019 12:05:47 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\inetpub\wwwroot\Attendance\start.php:48
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\index.php(59): startPunching(NULL, 'http://192.168....')
+#1 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\start.php on line 48
+[13-Mar-2019 12:06:37 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in C:\inetpub\wwwroot\Attendance\start.php:28
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\index.php(57): greetEmployee('1')
+#1 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\start.php on line 28
+[13-Mar-2019 12:06:48 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in C:\inetpub\wwwroot\Attendance\start.php:28
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\index.php(57): greetEmployee('1')
+#1 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\start.php on line 28
+[13-Mar-2019 12:08:32 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in C:\inetpub\wwwroot\Attendance\start.php:28
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\index.php(57): greetEmployee('1')
+#1 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\start.php on line 28
+[13-Mar-2019 12:08:32 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 12:08:32 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 12:08:32 Africa/Johannesburg] PHP   2. greetEmployee($UserID = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:57
+[13-Mar-2019 17:08:18 Africa/Johannesburg] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in C:\inetpub\wwwroot\Attendance\render-register.php on line 28
+[13-Mar-2019 17:08:19 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 17:08:19 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[13-Mar-2019 17:08:19 Africa/Johannesburg] PHP   2. loadAttendance() C:\inetpub\wwwroot\Attendance\loadAttendance.php:25
+[13-Mar-2019 17:08:19 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\loadAttendance.php:75
+[13-Mar-2019 17:11:51 Africa/Johannesburg] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in C:\inetpub\wwwroot\Attendance\render-register.php on line 28
+[13-Mar-2019 17:11:51 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 17:11:51 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[13-Mar-2019 17:11:51 Africa/Johannesburg] PHP   2. loadAttendance() C:\inetpub\wwwroot\Attendance\loadAttendance.php:25
+[13-Mar-2019 17:11:51 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\loadAttendance.php:75
+[13-Mar-2019 17:14:46 Africa/Johannesburg] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in C:\inetpub\wwwroot\Attendance\render-register.php on line 28
+[13-Mar-2019 17:14:46 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 17:14:46 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[13-Mar-2019 17:14:46 Africa/Johannesburg] PHP   2. loadAttendance() C:\inetpub\wwwroot\Attendance\loadAttendance.php:25
+[13-Mar-2019 17:14:46 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\loadAttendance.php:75
+[13-Mar-2019 17:15:22 Africa/Johannesburg] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in C:\inetpub\wwwroot\Attendance\render-register.php on line 28
+[13-Mar-2019 17:15:22 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 17:15:22 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[13-Mar-2019 17:15:22 Africa/Johannesburg] PHP   2. loadAttendance() C:\inetpub\wwwroot\Attendance\loadAttendance.php:25
+[13-Mar-2019 17:15:22 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\loadAttendance.php:75
+[13-Mar-2019 17:17:24 Africa/Johannesburg] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in C:\inetpub\wwwroot\Attendance\render-register.php on line 28
+[13-Mar-2019 17:17:24 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 17:17:24 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[13-Mar-2019 17:17:24 Africa/Johannesburg] PHP   2. loadAttendance($date = *uninitialized*, $emp_id = *uninitialized*, $isUpdated = *uninitialized*) C:\inetpub\wwwroot\Attendance\loadAttendance.php:25
+[13-Mar-2019 17:17:24 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*, *uninitialized*) C:\inetpub\wwwroot\Attendance\loadAttendance.php:75
+[13-Mar-2019 18:31:56 Africa/Johannesburg] PHP Notice:  Undefined index: UserID in C:\inetpub\wwwroot\Attendance\start.php on line 6
+[13-Mar-2019 18:31:56 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 18:31:56 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 18:31:56 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:2
+[13-Mar-2019 16:35:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function setMonth() in C:\inetpub\wwwroot\Attendance\start.php:5
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\index.php(2): require()
+#1 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\start.php on line 5
+[13-Mar-2019 18:36:42 Africa/Johannesburg] PHP Notice:  Undefined index: currentMonth in C:\inetpub\wwwroot\Attendance\start.php on line 90
+[13-Mar-2019 18:36:42 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 18:36:42 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 18:36:42 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:62
+[13-Mar-2019 18:36:42 Africa/Johannesburg] PHP Notice:  Undefined index: currentMonth in C:\inetpub\wwwroot\Attendance\index.php on line 88
+[13-Mar-2019 18:36:42 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 18:36:42 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 18:36:42 Africa/Johannesburg] PHP Notice:  Undefined index: currentMonth in C:\inetpub\wwwroot\Attendance\index.php on line 145
+[13-Mar-2019 18:36:42 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 18:36:42 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 18:45:02 Africa/Johannesburg] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in C:\inetpub\wwwroot\Attendance\render-register.php on line 28
+[13-Mar-2019 18:45:02 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 18:45:02 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[13-Mar-2019 18:45:02 Africa/Johannesburg] PHP   2. loadAttendance() C:\inetpub\wwwroot\Attendance\loadAttendance.php:25
+[13-Mar-2019 18:45:02 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\loadAttendance.php:75
+[13-Mar-2019 18:45:47 Africa/Johannesburg] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in C:\inetpub\wwwroot\Attendance\render-register.php on line 28
+[13-Mar-2019 18:45:47 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 18:45:47 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[13-Mar-2019 18:45:47 Africa/Johannesburg] PHP   2. loadAttendance() C:\inetpub\wwwroot\Attendance\loadAttendance.php:25
+[13-Mar-2019 18:45:47 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\loadAttendance.php:75
+[13-Mar-2019 18:58:34 Africa/Johannesburg] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in C:\inetpub\wwwroot\Attendance\render-register.php on line 28
+[13-Mar-2019 18:58:34 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 18:58:34 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[13-Mar-2019 18:58:34 Africa/Johannesburg] PHP   2. loadAttendance() C:\inetpub\wwwroot\Attendance\loadAttendance.php:25
+[13-Mar-2019 18:58:34 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\loadAttendance.php:75
+[13-Mar-2019 18:59:02 Africa/Johannesburg] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in C:\inetpub\wwwroot\Attendance\render-register.php on line 28
+[13-Mar-2019 18:59:02 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 18:59:02 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[13-Mar-2019 18:59:02 Africa/Johannesburg] PHP   2. loadAttendance($date = *uninitialized*, $emp_id = *uninitialized*, $isUpdated = *uninitialized*) C:\inetpub\wwwroot\Attendance\loadAttendance.php:25
+[13-Mar-2019 18:59:02 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*, *uninitialized*) C:\inetpub\wwwroot\Attendance\loadAttendance.php:75
+[13-Mar-2019 18:59:48 Africa/Johannesburg] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in C:\inetpub\wwwroot\Attendance\render-register.php on line 28
+[13-Mar-2019 18:59:48 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 18:59:48 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[13-Mar-2019 18:59:48 Africa/Johannesburg] PHP   2. loadAttendance() C:\inetpub\wwwroot\Attendance\loadAttendance.php:25
+[13-Mar-2019 18:59:48 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\loadAttendance.php:75
+[13-Mar-2019 18:59:54 Africa/Johannesburg] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in C:\inetpub\wwwroot\Attendance\render-register.php on line 28
+[13-Mar-2019 18:59:54 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 18:59:54 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[13-Mar-2019 18:59:54 Africa/Johannesburg] PHP   2. loadAttendance() C:\inetpub\wwwroot\Attendance\loadAttendance.php:25
+[13-Mar-2019 18:59:54 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\loadAttendance.php:75
+[13-Mar-2019 19:00:09 Africa/Johannesburg] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in C:\inetpub\wwwroot\Attendance\render-register.php on line 28
+[13-Mar-2019 19:00:09 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 19:00:09 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[13-Mar-2019 19:00:09 Africa/Johannesburg] PHP   2. loadAttendance() C:\inetpub\wwwroot\Attendance\loadAttendance.php:25
+[13-Mar-2019 19:00:09 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\loadAttendance.php:75
+[13-Mar-2019 22:12:21 Africa/Johannesburg] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, int given in C:\inetpub\wwwroot\Attendance\render-register.php on line 118
+[13-Mar-2019 22:12:21 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 22:12:21 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\loadAttendance.php:0
+[13-Mar-2019 22:12:21 Africa/Johannesburg] PHP   2. loadAttendance() C:\inetpub\wwwroot\Attendance\loadAttendance.php:25
+[13-Mar-2019 22:12:21 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\loadAttendance.php:75
+[13-Mar-2019 22:12:21 Africa/Johannesburg] PHP   4. date_diff() C:\inetpub\wwwroot\Attendance\render-register.php:118
+[13-Mar-2019 22:13:01 Africa/Johannesburg] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, int given in C:\inetpub\wwwroot\Attendance\render-register.php on line 118
+[13-Mar-2019 22:13:01 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 22:13:01 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 22:13:01 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:62
+[13-Mar-2019 22:13:01 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:90
+[13-Mar-2019 22:13:01 Africa/Johannesburg] PHP   4. date_diff() C:\inetpub\wwwroot\Attendance\render-register.php:118
+[13-Mar-2019 22:13:04 Africa/Johannesburg] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, int given in C:\inetpub\wwwroot\Attendance\render-register.php on line 118
+[13-Mar-2019 22:13:04 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 22:13:04 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 22:13:04 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:62
+[13-Mar-2019 22:13:04 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:90
+[13-Mar-2019 22:13:04 Africa/Johannesburg] PHP   4. date_diff() C:\inetpub\wwwroot\Attendance\render-register.php:118
+[13-Mar-2019 22:13:27 Africa/Johannesburg] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, int given in C:\inetpub\wwwroot\Attendance\render-register.php on line 118
+[13-Mar-2019 22:13:27 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 22:13:27 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 22:13:27 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $link = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:60
+[13-Mar-2019 22:13:27 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:90
+[13-Mar-2019 22:13:27 Africa/Johannesburg] PHP   4. date_diff(*uninitialized*, *uninitialized*, *uninitialized*) C:\inetpub\wwwroot\Attendance\render-register.php:118
+[13-Mar-2019 22:18:43 Africa/Johannesburg] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, int given in C:\inetpub\wwwroot\Attendance\render-register.php on line 119
+[13-Mar-2019 22:18:43 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 22:18:43 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 22:18:43 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $link = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:60
+[13-Mar-2019 22:18:43 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:90
+[13-Mar-2019 22:18:43 Africa/Johannesburg] PHP   4. date_diff(*uninitialized*, *uninitialized*, *uninitialized*) C:\inetpub\wwwroot\Attendance\render-register.php:119
+[13-Mar-2019 22:19:14 Africa/Johannesburg] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, int given in C:\inetpub\wwwroot\Attendance\render-register.php on line 119
+[13-Mar-2019 22:19:14 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 22:19:14 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 22:19:14 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $link = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:60
+[13-Mar-2019 22:19:14 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:90
+[13-Mar-2019 22:19:14 Africa/Johannesburg] PHP   4. date_diff(*uninitialized*, *uninitialized*, *uninitialized*) C:\inetpub\wwwroot\Attendance\render-register.php:119
+[13-Mar-2019 22:22:04 Africa/Johannesburg] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, int given in C:\inetpub\wwwroot\Attendance\render-register.php on line 119
+[13-Mar-2019 22:22:04 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 22:22:04 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 22:22:04 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $link = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:60
+[13-Mar-2019 22:22:04 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:90
+[13-Mar-2019 22:22:04 Africa/Johannesburg] PHP   4. date_diff(*uninitialized*, *uninitialized*, *uninitialized*) C:\inetpub\wwwroot\Attendance\render-register.php:119
+[13-Mar-2019 22:22:27 Africa/Johannesburg] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, int given in C:\inetpub\wwwroot\Attendance\render-register.php on line 119
+[13-Mar-2019 22:22:28 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 22:22:28 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 22:22:28 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $link = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:60
+[13-Mar-2019 22:22:28 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:90
+[13-Mar-2019 22:22:28 Africa/Johannesburg] PHP   4. date_diff(*uninitialized*, *uninitialized*, *uninitialized*) C:\inetpub\wwwroot\Attendance\render-register.php:119
+[13-Mar-2019 22:24:15 Africa/Johannesburg] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, int given in C:\inetpub\wwwroot\Attendance\render-register.php on line 119
+[13-Mar-2019 22:24:15 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 22:24:15 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 22:24:15 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $link = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:60
+[13-Mar-2019 22:24:15 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:90
+[13-Mar-2019 22:24:15 Africa/Johannesburg] PHP   4. date_diff(*uninitialized*, *uninitialized*, *uninitialized*) C:\inetpub\wwwroot\Attendance\render-register.php:119
+[13-Mar-2019 22:25:16 Africa/Johannesburg] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, int given in C:\inetpub\wwwroot\Attendance\render-register.php on line 119
+[13-Mar-2019 22:25:16 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 22:25:16 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 22:25:16 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $link = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:60
+[13-Mar-2019 22:25:16 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:90
+[13-Mar-2019 22:25:16 Africa/Johannesburg] PHP   4. date_diff(*uninitialized*, *uninitialized*, *uninitialized*) C:\inetpub\wwwroot\Attendance\render-register.php:119
+[13-Mar-2019 22:25:33 Africa/Johannesburg] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, int given in C:\inetpub\wwwroot\Attendance\render-register.php on line 119
+[13-Mar-2019 22:25:33 Africa/Johannesburg] PHP Stack trace:
+[13-Mar-2019 22:25:33 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[13-Mar-2019 22:25:33 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $link = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:60
+[13-Mar-2019 22:25:33 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:90
+[13-Mar-2019 22:25:33 Africa/Johannesburg] PHP   4. date_diff(*uninitialized*, *uninitialized*, *uninitialized*) C:\inetpub\wwwroot\Attendance\render-register.php:119
+[14-Mar-2019 16:49:19 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (01 2019-02) at position 0 (0): Unexpected character in C:\inetpub\wwwroot\Attendance\loadAttendance.php:71
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\loadAttendance.php(71): DateTime->__construct('01 2019-02')
+#1 C:\inetpub\wwwroot\Attendance\loadAttendance.php(4): loadAttendance('01 2019-02', '1', false)
+#2 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\loadAttendance.php on line 71
+[14-Mar-2019 22:01:36 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function diff() on int in C:\inetpub\wwwroot\Attendance\render-register.php:137
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\start.php(90): buildRegister('1', 'March 2019')
+#1 C:\inetpub\wwwroot\Attendance\index.php(72): startPunching('1', 'http://192.168....')
+#2 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 137
+[15-Mar-2019 09:01:29 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1) at position 0 (1): Unexpected character in C:\inetpub\wwwroot\Attendance\render-register.php:34
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\render-register.php(34): DateTime->__construct('1')
+#1 C:\inetpub\wwwroot\Attendance\start.php(20): buildRegister('March 2019', '1')
+#2 C:\inetpub\wwwroot\Attendance\index.php(2): require('C:\\inetpub\\wwwr...')
+#3 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 34
+[15-Mar-2019 09:03:45 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1) at position 0 (1): Unexpected character in C:\inetpub\wwwroot\Attendance\render-register.php:34
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\render-register.php(34): DateTime->__construct('1')
+#1 C:\inetpub\wwwroot\Attendance\start.php(20): buildRegister('February 2019', '1')
+#2 C:\inetpub\wwwroot\Attendance\index.php(2): require('C:\\inetpub\\wwwr...')
+#3 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 34
+[15-Mar-2019 09:05:07 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1) at position 0 (1): Unexpected character in C:\inetpub\wwwroot\Attendance\render-register.php:34
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\render-register.php(34): DateTime->__construct('1')
+#1 C:\inetpub\wwwroot\Attendance\start.php(20): buildRegister('March 2019', '1')
+#2 C:\inetpub\wwwroot\Attendance\index.php(2): require('C:\\inetpub\\wwwr...')
+#3 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 34
+[15-Mar-2019 09:05:48 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1) at position 0 (1): Unexpected character in C:\inetpub\wwwroot\Attendance\render-register.php:34
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\render-register.php(34): DateTime->__construct('1')
+#1 C:\inetpub\wwwroot\Attendance\start.php(20): buildRegister('February 2019', '1')
+#2 C:\inetpub\wwwroot\Attendance\index.php(2): require('C:\\inetpub\\wwwr...')
+#3 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 34
+[15-Mar-2019 09:07:19 Africa/Johannesburg] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1) at position 0 (1): Unexpected character in C:\inetpub\wwwroot\Attendance\render-register.php:34
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\render-register.php(34): DateTime->__construct('1')
+#1 C:\inetpub\wwwroot\Attendance\start.php(20): buildRegister('February 2019', '1')
+#2 C:\inetpub\wwwroot\Attendance\index.php(2): require('C:\\inetpub\\wwwr...')
+#3 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 34
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 178
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 178
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 178
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 178
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 178
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 178
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 178
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 178
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 178
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 178
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 178
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 178
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 178
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 178
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 178
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 178
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Warning:  main(): Property access is not allowed yet in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Warning:  main(): Couldn't fetch mysqli in C:\inetpub\wwwroot\Attendance\index.php on line 191
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 09:15:12 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 13:44:34 UTC] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(C:\WINDOWS\TEMP) failed: No error (0) in C:\inetpub\wwwroot\Attendance\start.php on line 2
+[15-Mar-2019 13:44:34 UTC] PHP Stack trace:
+[15-Mar-2019 13:44:34 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\start.php:0
+[15-Mar-2019 13:44:34 UTC] PHP   2. session_start() C:\inetpub\wwwroot\Attendance\start.php:2
+[15-Mar-2019 17:03:06 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function diff() on int in C:\inetpub\wwwroot\Attendance\render-register.php:137
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\start.php(95): buildRegister('1', 'March 2019')
+#1 C:\inetpub\wwwroot\Attendance\start.php(26): startPunching('1', 'tjaila')
+#2 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 137
+[15-Mar-2019 17:03:06 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function diff() on int in C:\inetpub\wwwroot\Attendance\render-register.php:137
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\start.php(95): buildRegister('1', 'March 2019')
+#1 C:\inetpub\wwwroot\Attendance\start.php(26): startPunching('1', 'tjaila')
+#2 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 137
+[15-Mar-2019 17:03:23 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function diff() on int in C:\inetpub\wwwroot\Attendance\render-register.php:137
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\start.php(95): buildRegister('1', 'March 2019')
+#1 C:\inetpub\wwwroot\Attendance\index.php(61): startPunching('1', 'http://192.168....')
+#2 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 137
+[15-Mar-2019 21:30:55 Africa/Johannesburg] PHP Notice:  Undefined index: punchButtons in C:\inetpub\wwwroot\Attendance\start.php on line 96
+[15-Mar-2019 21:30:55 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 21:30:55 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 21:30:55 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:61
+[15-Mar-2019 21:57:53 Africa/Johannesburg] PHP Notice:  Undefined index: punchButtons in C:\inetpub\wwwroot\Attendance\start.php on line 97
+[15-Mar-2019 21:57:53 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 21:57:53 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 21:57:53 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:62
+[15-Mar-2019 21:57:53 Africa/Johannesburg] PHP Notice:  Undefined index: punchButtons in C:\inetpub\wwwroot\Attendance\start.php on line 97
+[15-Mar-2019 21:57:53 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 21:57:53 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 21:57:53 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:62
+[15-Mar-2019 21:57:53 Africa/Johannesburg] PHP Notice:  Undefined index: punchButtons in C:\inetpub\wwwroot\Attendance\start.php on line 97
+[15-Mar-2019 21:57:53 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 21:57:53 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 21:57:53 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:62
+[15-Mar-2019 21:58:00 Africa/Johannesburg] PHP Notice:  Undefined index: punchButtons in C:\inetpub\wwwroot\Attendance\start.php on line 97
+[15-Mar-2019 21:58:00 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 21:58:00 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 21:58:00 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:62
+[15-Mar-2019 21:58:28 Africa/Johannesburg] PHP Notice:  Undefined index: punchButtons in C:\inetpub\wwwroot\Attendance\start.php on line 97
+[15-Mar-2019 21:58:28 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 21:58:28 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 21:58:28 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:62
+[15-Mar-2019 21:58:41 Africa/Johannesburg] PHP Notice:  Undefined index: punchButtons in C:\inetpub\wwwroot\Attendance\start.php on line 97
+[15-Mar-2019 21:58:41 Africa/Johannesburg] PHP Stack trace:
+[15-Mar-2019 21:58:41 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[15-Mar-2019 21:58:41 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:62
+[18-Mar-2019 06:24:06 Africa/Johannesburg] PHP Notice:  Undefined index: punchButtons in C:\inetpub\wwwroot\Attendance\start.php on line 97
+[18-Mar-2019 06:24:06 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 06:24:06 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 06:24:06 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:61
+[18-Mar-2019 06:53:43 Africa/Johannesburg] PHP Notice:  Undefined index: punchButtons in C:\inetpub\wwwroot\Attendance\start.php on line 97
+[18-Mar-2019 06:53:43 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 06:53:43 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 06:53:43 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:61
+[18-Mar-2019 06:58:27 Africa/Johannesburg] PHP Notice:  Undefined index: punchButtons in C:\inetpub\wwwroot\Attendance\start.php on line 97
+[18-Mar-2019 06:58:27 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 06:58:27 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 06:58:27 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:183
+[18-Mar-2019 07:07:38 Africa/Johannesburg] PHP Notice:  Undefined index: message in C:\inetpub\wwwroot\Attendance\start.php on line 97
+[18-Mar-2019 07:07:38 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 07:07:38 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 07:07:38 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $punch = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:183
+[18-Mar-2019 07:07:38 Africa/Johannesburg] PHP Notice:  Undefined index: punchButtons in C:\inetpub\wwwroot\Attendance\start.php on line 97
+[18-Mar-2019 07:07:38 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 07:07:38 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 07:07:38 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $punch = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:183
+[18-Mar-2019 07:34:38 Africa/Johannesburg] PHP Notice:  Undefined index: punchButtons in C:\inetpub\wwwroot\Attendance\start.php on line 97
+[18-Mar-2019 07:34:38 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 07:34:38 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 07:34:38 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:183
+[18-Mar-2019 06:57:14 UTC] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(C:\WINDOWS\TEMP) failed: No error (0) in C:\inetpub\wwwroot\Attendance\start.php on line 2
+[18-Mar-2019 06:57:14 UTC] PHP Stack trace:
+[18-Mar-2019 06:57:14 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 06:57:14 UTC] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:2
+[18-Mar-2019 06:57:14 UTC] PHP   3. session_start() C:\inetpub\wwwroot\Attendance\start.php:2
+[18-Mar-2019 08:57:17 Africa/Johannesburg] PHP Notice:  Undefined index: punchButtons in C:\inetpub\wwwroot\Attendance\start.php on line 97
+[18-Mar-2019 08:57:17 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 08:57:17 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 08:57:17 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:170
+[18-Mar-2019 16:30:54 Africa/Johannesburg] PHP Notice:  Undefined index: punchButtons in C:\inetpub\wwwroot\Attendance\start.php on line 98
+[18-Mar-2019 16:30:54 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 16:30:54 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 16:30:54 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:170
+[18-Mar-2019 16:30:56 Africa/Johannesburg] PHP Notice:  Undefined index: punchButtons in C:\inetpub\wwwroot\Attendance\start.php on line 98
+[18-Mar-2019 16:30:56 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 16:30:56 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 16:30:56 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:170
+[18-Mar-2019 16:31:02 Africa/Johannesburg] PHP Notice:  Undefined index: punchButtons in C:\inetpub\wwwroot\Attendance\start.php on line 98
+[18-Mar-2019 16:31:02 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 16:31:02 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 16:31:02 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:170
+[18-Mar-2019 16:31:03 Africa/Johannesburg] PHP Notice:  Undefined index: punchButtons in C:\inetpub\wwwroot\Attendance\start.php on line 98
+[18-Mar-2019 16:31:03 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 16:31:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 16:31:03 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:170
+[18-Mar-2019 16:35:42 Africa/Johannesburg] PHP Notice:  Undefined index: punchButtons in C:\inetpub\wwwroot\Attendance\start.php on line 102
+[18-Mar-2019 16:35:42 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 16:35:42 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 16:35:42 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:170
+[18-Mar-2019 19:27:33 Africa/Johannesburg] PHP Notice:  Undefined variable: runningDate in C:\inetpub\wwwroot\Attendance\render-register.php on line 153
+[18-Mar-2019 19:27:33 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 19:27:33 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 19:27:33 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:170
+[18-Mar-2019 19:27:33 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[18-Mar-2019 19:27:33 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in C:\inetpub\wwwroot\Attendance\render-register.php:153
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\start.php(101): buildRegister('1', 'March 2019')
+#1 C:\inetpub\wwwroot\Attendance\index.php(170): startPunching('1', 'in')
+#2 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 153
+[18-Mar-2019 19:27:45 Africa/Johannesburg] PHP Notice:  Undefined variable: runningDate in C:\inetpub\wwwroot\Attendance\render-register.php on line 153
+[18-Mar-2019 19:27:45 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 19:27:45 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 19:27:45 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:170
+[18-Mar-2019 19:27:45 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[18-Mar-2019 19:27:45 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in C:\inetpub\wwwroot\Attendance\render-register.php:153
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\start.php(101): buildRegister('1', 'March 2019')
+#1 C:\inetpub\wwwroot\Attendance\index.php(170): startPunching('1', 'in')
+#2 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 153
+[18-Mar-2019 19:28:04 Africa/Johannesburg] PHP Notice:  Undefined variable: runningDate in C:\inetpub\wwwroot\Attendance\render-register.php on line 153
+[18-Mar-2019 19:28:04 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 19:28:04 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 19:28:04 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $punch = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:170
+[18-Mar-2019 19:28:04 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:101
+[18-Mar-2019 19:30:09 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in C:\inetpub\wwwroot\Attendance\render-register.php:154
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\start.php(101): buildRegister('1', 'March 2019')
+#1 C:\inetpub\wwwroot\Attendance\index.php(170): startPunching('1', 'in')
+#2 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 154
+[18-Mar-2019 19:30:09 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 19:30:09 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 19:30:09 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $punch = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:170
+[18-Mar-2019 19:30:09 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:101
+[18-Mar-2019 19:46:45 Africa/Johannesburg] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\inetpub\wwwroot\Attendance\routines.php on line 72
+[18-Mar-2019 19:46:45 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 19:46:45 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 19:46:45 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:170
+[18-Mar-2019 19:46:45 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[18-Mar-2019 19:46:45 Africa/Johannesburg] PHP   4. padZero() C:\inetpub\wwwroot\Attendance\render-register.php:103
+[18-Mar-2019 19:47:24 Africa/Johannesburg] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\inetpub\wwwroot\Attendance\render-register.php on line 106
+[18-Mar-2019 19:47:24 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 19:47:24 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 19:47:24 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:170
+[18-Mar-2019 19:47:24 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[18-Mar-2019 19:48:49 Africa/Johannesburg] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\inetpub\wwwroot\Attendance\render-register.php on line 106
+[18-Mar-2019 19:48:49 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 19:48:49 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 19:48:49 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:170
+[18-Mar-2019 19:48:49 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[18-Mar-2019 19:49:29 Africa/Johannesburg] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\inetpub\wwwroot\Attendance\routines.php on line 72
+[18-Mar-2019 19:49:29 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 19:49:29 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[18-Mar-2019 19:49:29 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:170
+[18-Mar-2019 19:49:29 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[18-Mar-2019 19:49:29 Africa/Johannesburg] PHP   4. padZero() C:\inetpub\wwwroot\Attendance\render-register.php:103
+[18-Mar-2019 20:15:57 Africa/Johannesburg] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in C:\inetpub\wwwroot\Attendance\render-register.php on line 28
+[18-Mar-2019 20:15:57 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 20:15:57 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[18-Mar-2019 20:15:57 Africa/Johannesburg] PHP   2. bookLeave() C:\inetpub\wwwroot\Attendance\bookleave.php:20
+[18-Mar-2019 20:15:57 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\bookleave.php:11
+[18-Mar-2019 20:18:45 Africa/Johannesburg] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in C:\inetpub\wwwroot\Attendance\render-register.php on line 28
+[18-Mar-2019 20:18:45 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 20:18:45 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[18-Mar-2019 20:18:45 Africa/Johannesburg] PHP   2. bookLeave() C:\inetpub\wwwroot\Attendance\bookleave.php:20
+[18-Mar-2019 20:18:45 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\bookleave.php:11
+[18-Mar-2019 20:58:00 Africa/Johannesburg] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in C:\inetpub\wwwroot\Attendance\render-register.php on line 28
+[18-Mar-2019 20:58:00 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 20:58:00 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[18-Mar-2019 20:58:00 Africa/Johannesburg] PHP   2. bookLeave($id = *uninitialized*, $from = *uninitialized*, $to = *uninitialized*, $conn = *uninitialized*) C:\inetpub\wwwroot\Attendance\bookleave.php:20
+[18-Mar-2019 20:58:00 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*, *uninitialized*) C:\inetpub\wwwroot\Attendance\bookleave.php:11
+[18-Mar-2019 21:01:11 Africa/Johannesburg] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in C:\inetpub\wwwroot\Attendance\render-register.php on line 28
+[18-Mar-2019 21:01:11 Africa/Johannesburg] PHP Stack trace:
+[18-Mar-2019 21:01:11 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[18-Mar-2019 21:01:11 Africa/Johannesburg] PHP   2. bookLeave($id = *uninitialized*, $from = *uninitialized*, $to = *uninitialized*, $conn = *uninitialized*) C:\inetpub\wwwroot\Attendance\bookleave.php:20
+[18-Mar-2019 21:01:11 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*, *uninitialized*) C:\inetpub\wwwroot\Attendance\bookleave.php:11
+[19-Mar-2019 15:58:26 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in C:\inetpub\wwwroot\Attendance\routines.php:84
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\index.php(56): employeeFullName('1')
+#1 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\routines.php on line 84
+[19-Mar-2019 15:58:26 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in C:\inetpub\wwwroot\Attendance\routines.php:84
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\index.php(56): employeeFullName('1')
+#1 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\routines.php on line 84
+[19-Mar-2019 15:58:33 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in C:\inetpub\wwwroot\Attendance\routines.php:84
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\index.php(56): employeeFullName('1')
+#1 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\routines.php on line 84
+[19-Mar-2019 15:58:33 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in C:\inetpub\wwwroot\Attendance\routines.php:84
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\index.php(56): employeeFullName('1')
+#1 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\routines.php on line 84
+[19-Mar-2019 15:59:51 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in C:\inetpub\wwwroot\Attendance\routines.php:84
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\index.php(56): employeeFullName('1')
+#1 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\routines.php on line 84
+[19-Mar-2019 15:59:51 Africa/Johannesburg] PHP Stack trace:
+[19-Mar-2019 15:59:51 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[19-Mar-2019 15:59:51 Africa/Johannesburg] PHP   2. employeeFullName($UserID = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:56
+[19-Mar-2019 14:29:14 UTC] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(C:\WINDOWS\TEMP) failed: No error (0) in C:\inetpub\wwwroot\Attendance\start.php on line 2
+[19-Mar-2019 14:29:14 UTC] PHP Stack trace:
+[19-Mar-2019 14:29:14 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\start.php:0
+[19-Mar-2019 14:29:14 UTC] PHP   2. session_start() C:\inetpub\wwwroot\Attendance\start.php:2
+[19-Mar-2019 20:06:13 UTC] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(C:\WINDOWS\TEMP) failed: No error (0) in C:\inetpub\wwwroot\Attendance\start.php on line 2
+[19-Mar-2019 20:06:13 UTC] PHP Stack trace:
+[19-Mar-2019 20:06:13 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\start.php:0
+[19-Mar-2019 20:06:13 UTC] PHP   2. session_start() C:\inetpub\wwwroot\Attendance\start.php:2
+[20-Mar-2019 12:16:49 UTC] PHP Warning:  DOMDocument::load(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[20-Mar-2019 12:16:49 UTC] PHP Stack trace:
+[20-Mar-2019 12:16:49 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:16:49 UTC] PHP   2. DOMDocument->load() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[20-Mar-2019 12:16:49 UTC] PHP Warning:  DOMDocument::load(): Failed to enable crypto in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[20-Mar-2019 12:16:49 UTC] PHP Stack trace:
+[20-Mar-2019 12:16:49 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:16:49 UTC] PHP   2. DOMDocument->load() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[20-Mar-2019 12:16:49 UTC] PHP Warning:  DOMDocument::load(https://www.brainyquote.com/link/quotefu.rss): failed to open stream: operation failed in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[20-Mar-2019 12:16:49 UTC] PHP Stack trace:
+[20-Mar-2019 12:16:49 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:16:49 UTC] PHP   2. DOMDocument->load() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[20-Mar-2019 12:16:49 UTC] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;https://www.brainyquote.com/link/quotefu.rss&quot; in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[20-Mar-2019 12:16:49 UTC] PHP Stack trace:
+[20-Mar-2019 12:16:49 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:16:49 UTC] PHP   2. DOMDocument->load() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[20-Mar-2019 12:16:49 UTC] PHP Catchable fatal error:  Object of class DOMDocument could not be converted to string in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[20-Mar-2019 12:16:49 UTC] PHP Stack trace:
+[20-Mar-2019 12:16:49 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:19:18 UTC] PHP Catchable fatal error:  Object of class DOMDocument could not be converted to string in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[20-Mar-2019 12:19:18 UTC] PHP Stack trace:
+[20-Mar-2019 12:19:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:19:42 UTC] PHP Catchable fatal error:  Object of class DOMDocument could not be converted to string in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[20-Mar-2019 12:19:42 UTC] PHP Stack trace:
+[20-Mar-2019 12:19:42 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:24:23 UTC] PHP Catchable fatal error:  Object of class DOMNodeList could not be converted to string in C:\inetpub\wwwroot\Attendance\quotes.php on line 7
+[20-Mar-2019 12:24:23 UTC] PHP Stack trace:
+[20-Mar-2019 12:24:23 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:25:14 UTC] PHP Notice:  Undefined property: DOMNodeList::$count in C:\inetpub\wwwroot\Attendance\quotes.php on line 7
+[20-Mar-2019 12:25:14 UTC] PHP Stack trace:
+[20-Mar-2019 12:25:14 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:35:32 UTC] PHP Warning:  DOMDocument::load(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[20-Mar-2019 12:35:32 UTC] PHP Stack trace:
+[20-Mar-2019 12:35:32 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:35:32 UTC] PHP   2. DOMDocument->load() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[20-Mar-2019 12:35:32 UTC] PHP Warning:  DOMDocument::load(): Failed to enable crypto in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[20-Mar-2019 12:35:32 UTC] PHP Stack trace:
+[20-Mar-2019 12:35:32 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:35:32 UTC] PHP   2. DOMDocument->load() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[20-Mar-2019 12:35:32 UTC] PHP Warning:  DOMDocument::load(https://www.brainyquote.com/link/quotefu.rss): failed to open stream: operation failed in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[20-Mar-2019 12:35:32 UTC] PHP Stack trace:
+[20-Mar-2019 12:35:32 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:35:32 UTC] PHP   2. DOMDocument->load() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[20-Mar-2019 12:35:32 UTC] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;https://www.brainyquote.com/link/quotefu.rss&quot; in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[20-Mar-2019 12:35:32 UTC] PHP Stack trace:
+[20-Mar-2019 12:35:32 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:35:32 UTC] PHP   2. DOMDocument->load() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[20-Mar-2019 12:35:32 UTC] PHP Notice:  Undefined property: DOMNodeList::$count in C:\inetpub\wwwroot\Attendance\quotes.php on line 7
+[20-Mar-2019 12:35:32 UTC] PHP Stack trace:
+[20-Mar-2019 12:35:32 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:39:05 UTC] PHP Warning:  Use of undefined constant fasle - assumed 'fasle' (this will throw an Error in a future version of PHP) in C:\inetpub\wwwroot\Attendance\quotes.php on line 11
+[20-Mar-2019 12:39:05 UTC] PHP Stack trace:
+[20-Mar-2019 12:39:05 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:39:05 UTC] PHP Warning:  DOMDocument::load() expects at most 2 parameters, 3 given in C:\inetpub\wwwroot\Attendance\quotes.php on line 11
+[20-Mar-2019 12:39:05 UTC] PHP Stack trace:
+[20-Mar-2019 12:39:05 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:39:05 UTC] PHP   2. DOMDocument->load() C:\inetpub\wwwroot\Attendance\quotes.php:11
+[20-Mar-2019 12:39:05 UTC] PHP Notice:  Undefined property: DOMNodeList::$count in C:\inetpub\wwwroot\Attendance\quotes.php on line 13
+[20-Mar-2019 12:39:05 UTC] PHP Stack trace:
+[20-Mar-2019 12:39:05 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:39:18 UTC] PHP Warning:  DOMDocument::load() expects parameter 2 to be int, array given in C:\inetpub\wwwroot\Attendance\quotes.php on line 11
+[20-Mar-2019 12:39:18 UTC] PHP Stack trace:
+[20-Mar-2019 12:39:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:39:18 UTC] PHP   2. DOMDocument->load() C:\inetpub\wwwroot\Attendance\quotes.php:11
+[20-Mar-2019 12:39:18 UTC] PHP Notice:  Undefined property: DOMNodeList::$count in C:\inetpub\wwwroot\Attendance\quotes.php on line 13
+[20-Mar-2019 12:39:18 UTC] PHP Stack trace:
+[20-Mar-2019 12:39:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:41:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DOMDocument::file_get_contents() in C:\inetpub\wwwroot\Attendance\quotes.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\quotes.php on line 11
+[20-Mar-2019 12:41:48 UTC] PHP Warning:  file_get_contents() expects parameter 3 to be resource, array given in C:\inetpub\wwwroot\Attendance\quotes.php on line 10
+[20-Mar-2019 12:41:48 UTC] PHP Stack trace:
+[20-Mar-2019 12:41:48 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 12:41:48 UTC] PHP   2. file_get_contents() C:\inetpub\wwwroot\Attendance\quotes.php:10
+[20-Mar-2019 12:41:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getElementsByTagName() on null in C:\inetpub\wwwroot\Attendance\quotes.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\quotes.php on line 11
+[20-Mar-2019 13:09:16 UTC] PHP Warning:  DOMDocument::load(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[20-Mar-2019 13:09:16 UTC] PHP Stack trace:
+[20-Mar-2019 13:09:16 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 13:09:16 UTC] PHP   2. DOMDocument->load() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[20-Mar-2019 13:09:16 UTC] PHP Warning:  DOMDocument::load(): Failed to enable crypto in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[20-Mar-2019 13:09:16 UTC] PHP Stack trace:
+[20-Mar-2019 13:09:16 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 13:09:16 UTC] PHP   2. DOMDocument->load() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[20-Mar-2019 13:09:16 UTC] PHP Warning:  DOMDocument::load(https://www.brainyquote.com/link/quotefu.rss): failed to open stream: operation failed in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[20-Mar-2019 13:09:16 UTC] PHP Stack trace:
+[20-Mar-2019 13:09:16 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 13:09:16 UTC] PHP   2. DOMDocument->load() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[20-Mar-2019 13:09:16 UTC] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;https://www.brainyquote.com/link/quotefu.rss&quot; in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[20-Mar-2019 13:09:16 UTC] PHP Stack trace:
+[20-Mar-2019 13:09:16 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 13:09:16 UTC] PHP   2. DOMDocument->load() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[20-Mar-2019 13:09:16 UTC] PHP Notice:  Undefined property: DOMNodeList::$count in C:\inetpub\wwwroot\Attendance\quotes.php on line 7
+[20-Mar-2019 13:09:16 UTC] PHP Stack trace:
+[20-Mar-2019 13:09:16 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 13:32:17 UTC] PHP Notice:  Undefined property: DOMNodeList::$count in C:\inetpub\wwwroot\Attendance\quotes.php on line 7
+[20-Mar-2019 13:32:17 UTC] PHP Stack trace:
+[20-Mar-2019 13:32:17 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 13:43:59 UTC] PHP Catchable fatal error:  Object of class XMLReader could not be converted to string in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[20-Mar-2019 13:43:59 UTC] PHP Stack trace:
+[20-Mar-2019 13:43:59 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 13:44:15 UTC] PHP Catchable fatal error:  Object of class XMLReader could not be converted to string in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[20-Mar-2019 13:44:15 UTC] PHP Stack trace:
+[20-Mar-2019 13:44:15 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 13:57:16 UTC] PHP Warning:  main(): Node no longer exists in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[20-Mar-2019 13:57:16 UTC] PHP Stack trace:
+[20-Mar-2019 13:57:16 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 13:57:45 UTC] PHP Warning:  SimpleXMLElement::__toString(): Node no longer exists in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[20-Mar-2019 13:57:45 UTC] PHP Stack trace:
+[20-Mar-2019 13:57:45 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 13:57:45 UTC] PHP   2. SimpleXMLElement->__toString() C:\inetpub\wwwroot\Attendance\quotes.php:6
+[20-Mar-2019 14:33:48 UTC] PHP Notice:  Undefined index: b in C:\inetpub\wwwroot\Attendance\quotes.php on line 11
+[20-Mar-2019 14:33:48 UTC] PHP Stack trace:
+[20-Mar-2019 14:33:48 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 14:33:48 UTC] PHP Notice:  Undefined index: besem in C:\inetpub\wwwroot\Attendance\quotes.php on line 11
+[20-Mar-2019 14:33:48 UTC] PHP Stack trace:
+[20-Mar-2019 14:33:48 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 14:35:29 UTC] PHP Notice:  Undefined index: b in C:\inetpub\wwwroot\Attendance\quotes.php on line 11
+[20-Mar-2019 14:35:29 UTC] PHP Stack trace:
+[20-Mar-2019 14:35:29 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 14:36:10 UTC] PHP Notice:  Undefined index: b in C:\inetpub\wwwroot\Attendance\quotes.php on line 11
+[20-Mar-2019 14:36:10 UTC] PHP Stack trace:
+[20-Mar-2019 14:36:10 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 14:36:10 UTC] PHP Warning:  Illegal offset type in C:\inetpub\wwwroot\Attendance\quotes.php on line 11
+[20-Mar-2019 14:36:10 UTC] PHP Stack trace:
+[20-Mar-2019 14:36:10 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 14:47:54 UTC] PHP Notice:  Undefined variable: json in C:\inetpub\wwwroot\Attendance\quotes.php on line 10
+[20-Mar-2019 14:47:54 UTC] PHP Stack trace:
+[20-Mar-2019 14:47:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 14:48:52 UTC] PHP Notice:  Undefined variable: json in C:\inetpub\wwwroot\Attendance\quotes.php on line 10
+[20-Mar-2019 14:48:52 UTC] PHP Stack trace:
+[20-Mar-2019 14:48:52 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[20-Mar-2019 14:49:49 UTC] PHP Notice:  Undefined variable: json in C:\inetpub\wwwroot\Attendance\quotes.php on line 10
+[20-Mar-2019 14:49:49 UTC] PHP Stack trace:
+[20-Mar-2019 14:49:49 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\quotes.php:0
+[25-Mar-2019 15:34:59 Africa/Johannesburg] PHP Fatal error:  Uncaught TypeError: DateTime::__construct() expects parameter 1 to be string, object given in C:\inetpub\wwwroot\Attendance\routines.php:94
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\routines.php(94): DateTime->__construct(Object(DateTime))
+#1 C:\inetpub\wwwroot\Attendance\index.php(43): weekDay(Object(DateTime))
+#2 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\routines.php on line 94
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP Warning:  simplexml_load_file(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP Stack trace:
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP   3. simplexml_load_file() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP Warning:  simplexml_load_file(https://www.brainyquote.com/link/quotefu.rss): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP Stack trace:
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP   3. simplexml_load_file() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.brainyquote.com/link/quotefu.rss&quot; in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP Stack trace:
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP   3. simplexml_load_file() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP Notice:  Trying to get property 'channel' of non-object in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP Stack trace:
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP Notice:  Trying to get property 'item' of non-object in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP Stack trace:
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP Warning:  Invalid argument supplied for foreach() in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP Stack trace:
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[25-Mar-2019 20:54:15 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP Warning:  simplexml_load_file(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP Stack trace:
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP   3. simplexml_load_file() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP Warning:  simplexml_load_file(https://www.brainyquote.com/link/quotefu.rss): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP Stack trace:
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP   3. simplexml_load_file() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.brainyquote.com/link/quotefu.rss&quot; in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP Stack trace:
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP   3. simplexml_load_file() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP Notice:  Trying to get property 'channel' of non-object in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP Stack trace:
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP Notice:  Trying to get property 'item' of non-object in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP Stack trace:
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP Warning:  Invalid argument supplied for foreach() in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP Stack trace:
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[26-Mar-2019 06:34:43 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP Warning:  simplexml_load_file(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP Stack trace:
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP   3. simplexml_load_file() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP Warning:  simplexml_load_file(https://www.brainyquote.com/link/quotefu.rss): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP Stack trace:
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP   3. simplexml_load_file() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.brainyquote.com/link/quotefu.rss&quot; in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP Stack trace:
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP   3. simplexml_load_file() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP Notice:  Trying to get property 'channel' of non-object in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP Stack trace:
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP Notice:  Trying to get property 'item' of non-object in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP Stack trace:
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP Warning:  Invalid argument supplied for foreach() in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP Stack trace:
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[26-Mar-2019 06:37:57 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[26-Mar-2019 07:16:49 Africa/Johannesburg] PHP Notice:  Undefined index: leaveType in C:\inetpub\wwwroot\Attendance\bookleave.php on line 20
+[26-Mar-2019 07:16:49 Africa/Johannesburg] PHP Stack trace:
+[26-Mar-2019 07:16:49 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[26-Mar-2019 07:25:00 Africa/Johannesburg] PHP Notice:  Undefined index: leaveType in C:\inetpub\wwwroot\Attendance\bookleave.php on line 19
+[26-Mar-2019 07:25:00 Africa/Johannesburg] PHP Stack trace:
+[26-Mar-2019 07:25:00 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[27-Mar-2019 10:16:29 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in C:\inetpub\wwwroot\Attendance\render-register.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\render-register.php(51): leaveDays('1', 'March 2019')
+#1 C:\inetpub\wwwroot\Attendance\start.php(101): buildRegister('1', 'March 2019')
+#2 C:\inetpub\wwwroot\Attendance\index.php(215): startPunching('1', 'in')
+#3 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 21
+[27-Mar-2019 10:16:29 Africa/Johannesburg] PHP Stack trace:
+[27-Mar-2019 10:16:29 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[27-Mar-2019 10:16:29 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $punch = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:215
+[27-Mar-2019 10:16:29 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:101
+[27-Mar-2019 10:16:29 Africa/Johannesburg] PHP   4. leaveDays($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\render-register.php:51
+[27-Mar-2019 10:22:35 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in C:\inetpub\wwwroot\Attendance\render-register.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\render-register.php(50): leaveDays('1', 'March 2019')
+#1 C:\inetpub\wwwroot\Attendance\start.php(101): buildRegister('1', 'March 2019')
+#2 C:\inetpub\wwwroot\Attendance\index.php(215): startPunching('1', 'in')
+#3 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 21
+[27-Mar-2019 10:22:49 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in C:\inetpub\wwwroot\Attendance\render-register.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\render-register.php(50): leaveDays('1', 'March 2019')
+#1 C:\inetpub\wwwroot\Attendance\start.php(101): buildRegister('1', 'March 2019')
+#2 C:\inetpub\wwwroot\Attendance\index.php(215): startPunching('1', 'in')
+#3 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 21
+[27-Mar-2019 10:23:54 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in C:\inetpub\wwwroot\Attendance\render-register.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\render-register.php(50): leaveDays('1', 'March 2019')
+#1 C:\inetpub\wwwroot\Attendance\start.php(101): buildRegister('1', 'March 2019')
+#2 C:\inetpub\wwwroot\Attendance\index.php(215): startPunching('1', 'in')
+#3 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 21
+[27-Mar-2019 10:23:54 Africa/Johannesburg] PHP Stack trace:
+[27-Mar-2019 10:23:54 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[27-Mar-2019 10:23:54 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $punch = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:215
+[27-Mar-2019 10:23:54 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:101
+[27-Mar-2019 10:23:54 Africa/Johannesburg] PHP   4. leaveDays($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\render-register.php:50
+[27-Mar-2019 08:27:58 UTC] PHP Notice:  Array to string conversion in C:\inetpub\wwwroot\Attendance\test.php on line 4
+[27-Mar-2019 08:27:58 UTC] PHP Stack trace:
+[27-Mar-2019 08:27:58 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 08:28:30 UTC] PHP Notice:  Array to string conversion in C:\inetpub\wwwroot\Attendance\test.php on line 4
+[27-Mar-2019 08:28:30 UTC] PHP Stack trace:
+[27-Mar-2019 08:28:30 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 08:47:41 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in C:\inetpub\wwwroot\Attendance\test.php on line 4
+[27-Mar-2019 08:47:41 UTC] PHP Stack trace:
+[27-Mar-2019 08:47:41 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 08:47:41 UTC] PHP   2. array_push() C:\inetpub\wwwroot\Attendance\test.php:4
+[27-Mar-2019 08:47:41 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in C:\inetpub\wwwroot\Attendance\test.php on line 5
+[27-Mar-2019 08:47:41 UTC] PHP Stack trace:
+[27-Mar-2019 08:47:41 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 08:47:41 UTC] PHP   2. array_push() C:\inetpub\wwwroot\Attendance\test.php:5
+[27-Mar-2019 08:47:41 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in C:\inetpub\wwwroot\Attendance\test.php on line 6
+[27-Mar-2019 08:47:41 UTC] PHP Stack trace:
+[27-Mar-2019 08:47:41 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 08:47:41 UTC] PHP   2. array_push() C:\inetpub\wwwroot\Attendance\test.php:6
+[27-Mar-2019 08:48:31 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in C:\inetpub\wwwroot\Attendance\test.php on line 4
+[27-Mar-2019 08:48:31 UTC] PHP Stack trace:
+[27-Mar-2019 08:48:31 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 08:48:31 UTC] PHP   2. array_push() C:\inetpub\wwwroot\Attendance\test.php:4
+[27-Mar-2019 08:48:31 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in C:\inetpub\wwwroot\Attendance\test.php on line 5
+[27-Mar-2019 08:48:31 UTC] PHP Stack trace:
+[27-Mar-2019 08:48:31 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 08:48:31 UTC] PHP   2. array_push() C:\inetpub\wwwroot\Attendance\test.php:5
+[27-Mar-2019 08:48:31 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in C:\inetpub\wwwroot\Attendance\test.php on line 6
+[27-Mar-2019 08:48:31 UTC] PHP Stack trace:
+[27-Mar-2019 08:48:31 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 08:48:31 UTC] PHP   2. array_push() C:\inetpub\wwwroot\Attendance\test.php:6
+[27-Mar-2019 08:48:48 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in C:\inetpub\wwwroot\Attendance\test.php on line 4
+[27-Mar-2019 08:48:48 UTC] PHP Stack trace:
+[27-Mar-2019 08:48:48 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 08:48:48 UTC] PHP   2. array_push() C:\inetpub\wwwroot\Attendance\test.php:4
+[27-Mar-2019 08:48:48 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in C:\inetpub\wwwroot\Attendance\test.php on line 5
+[27-Mar-2019 08:48:48 UTC] PHP Stack trace:
+[27-Mar-2019 08:48:48 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 08:48:48 UTC] PHP   2. array_push() C:\inetpub\wwwroot\Attendance\test.php:5
+[27-Mar-2019 08:48:48 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in C:\inetpub\wwwroot\Attendance\test.php on line 6
+[27-Mar-2019 08:48:48 UTC] PHP Stack trace:
+[27-Mar-2019 08:48:48 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 08:48:48 UTC] PHP   2. array_push() C:\inetpub\wwwroot\Attendance\test.php:6
+[27-Mar-2019 09:01:18 UTC] PHP Notice:  Array to string conversion in C:\inetpub\wwwroot\Attendance\test.php on line 11
+[27-Mar-2019 09:01:18 UTC] PHP Stack trace:
+[27-Mar-2019 09:01:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 09:01:18 UTC] PHP Notice:  Undefined variable: Array in C:\inetpub\wwwroot\Attendance\test.php on line 11
+[27-Mar-2019 09:01:18 UTC] PHP Stack trace:
+[27-Mar-2019 09:01:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 09:01:18 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in C:\inetpub\wwwroot\Attendance\test.php on line 11
+[27-Mar-2019 09:01:18 UTC] PHP Stack trace:
+[27-Mar-2019 09:01:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 09:01:18 UTC] PHP   2. array_search() C:\inetpub\wwwroot\Attendance\test.php:11
+[27-Mar-2019 09:01:18 UTC] PHP Notice:  Array to string conversion in C:\inetpub\wwwroot\Attendance\test.php on line 11
+[27-Mar-2019 09:01:18 UTC] PHP Stack trace:
+[27-Mar-2019 09:01:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 09:01:18 UTC] PHP Notice:  Undefined variable: Array in C:\inetpub\wwwroot\Attendance\test.php on line 11
+[27-Mar-2019 09:01:18 UTC] PHP Stack trace:
+[27-Mar-2019 09:01:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 09:01:18 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in C:\inetpub\wwwroot\Attendance\test.php on line 11
+[27-Mar-2019 09:01:18 UTC] PHP Stack trace:
+[27-Mar-2019 09:01:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 09:01:18 UTC] PHP   2. array_search() C:\inetpub\wwwroot\Attendance\test.php:11
+[27-Mar-2019 09:01:18 UTC] PHP Notice:  Array to string conversion in C:\inetpub\wwwroot\Attendance\test.php on line 11
+[27-Mar-2019 09:01:18 UTC] PHP Stack trace:
+[27-Mar-2019 09:01:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 09:01:18 UTC] PHP Notice:  Undefined variable: Array in C:\inetpub\wwwroot\Attendance\test.php on line 11
+[27-Mar-2019 09:01:18 UTC] PHP Stack trace:
+[27-Mar-2019 09:01:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 09:01:18 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in C:\inetpub\wwwroot\Attendance\test.php on line 11
+[27-Mar-2019 09:01:18 UTC] PHP Stack trace:
+[27-Mar-2019 09:01:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 09:01:18 UTC] PHP   2. array_search() C:\inetpub\wwwroot\Attendance\test.php:11
+[27-Mar-2019 09:01:18 UTC] PHP Notice:  Array to string conversion in C:\inetpub\wwwroot\Attendance\test.php on line 11
+[27-Mar-2019 09:01:18 UTC] PHP Stack trace:
+[27-Mar-2019 09:01:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 09:01:18 UTC] PHP Notice:  Undefined variable: Array in C:\inetpub\wwwroot\Attendance\test.php on line 11
+[27-Mar-2019 09:01:18 UTC] PHP Stack trace:
+[27-Mar-2019 09:01:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 09:01:18 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in C:\inetpub\wwwroot\Attendance\test.php on line 11
+[27-Mar-2019 09:01:18 UTC] PHP Stack trace:
+[27-Mar-2019 09:01:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[27-Mar-2019 09:01:18 UTC] PHP   2. array_search() C:\inetpub\wwwroot\Attendance\test.php:11
+[27-Mar-2019 22:20:58 Africa/Johannesburg] PHP Notice:  Undefined variable: registerHTML in C:\inetpub\wwwroot\Attendance\render-register.php on line 78
+[27-Mar-2019 22:20:58 Africa/Johannesburg] PHP Stack trace:
+[27-Mar-2019 22:20:58 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[27-Mar-2019 22:20:58 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $punch = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:215
+[27-Mar-2019 22:20:58 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:101
+[27-Mar-2019 22:20:58 Africa/Johannesburg] PHP   4. checkLeave($leaveDays = *uninitialized*, $runningDate = *uninitialized*, $dayNumber = *uninitialized*, $day = *uninitialized*, $presentDay = *uninitialized*, $historicDate = *uninitialized*, $isFuture = *uninitialized*) C:\inetpub\wwwroot\Attendance\render-register.php:146
+[27-Mar-2019 22:22:43 Africa/Johannesburg] PHP Notice:  Undefined variable: TotalDaysAbcent in C:\inetpub\wwwroot\Attendance\render-register.php on line 79
+[27-Mar-2019 22:22:43 Africa/Johannesburg] PHP Stack trace:
+[27-Mar-2019 22:22:43 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[27-Mar-2019 22:22:43 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:215
+[27-Mar-2019 22:22:43 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[27-Mar-2019 22:22:43 Africa/Johannesburg] PHP   4. checkLeave() C:\inetpub\wwwroot\Attendance\render-register.php:146
+[27-Mar-2019 22:22:43 Africa/Johannesburg] PHP Notice:  Undefined variable: TotalDaysAbcent in C:\inetpub\wwwroot\Attendance\render-register.php on line 79
+[27-Mar-2019 22:22:43 Africa/Johannesburg] PHP Stack trace:
+[27-Mar-2019 22:22:43 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[27-Mar-2019 22:22:43 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:215
+[27-Mar-2019 22:22:43 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[27-Mar-2019 22:22:43 Africa/Johannesburg] PHP   4. checkLeave() C:\inetpub\wwwroot\Attendance\render-register.php:146
+[27-Mar-2019 22:23:12 Africa/Johannesburg] PHP Notice:  Undefined variable: TotalDaysAbcent in C:\inetpub\wwwroot\Attendance\render-register.php on line 79
+[27-Mar-2019 22:23:12 Africa/Johannesburg] PHP Stack trace:
+[27-Mar-2019 22:23:12 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[27-Mar-2019 22:23:12 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $punch = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:215
+[27-Mar-2019 22:23:12 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:101
+[27-Mar-2019 22:23:12 Africa/Johannesburg] PHP   4. checkLeave($leaveDays = *uninitialized*, $runningDate = *uninitialized*, $dayNumber = *uninitialized*, $day = *uninitialized*, $presentDay = *uninitialized*, $historicDate = *uninitialized*, $isFuture = *uninitialized*, $registerHTML = *uninitialized*) C:\inetpub\wwwroot\Attendance\render-register.php:146
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP Warning:  Illegal string offset 'TotalDaysAbcent' in C:\inetpub\wwwroot\Attendance\render-register.php on line 114
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP Warning:  Illegal string offset 'registerHTML' in C:\inetpub\wwwroot\Attendance\render-register.php on line 116
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP Warning:  Illegal string offset 'TotalDaysAbcent' in C:\inetpub\wwwroot\Attendance\render-register.php on line 114
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP Warning:  Illegal string offset 'registerHTML' in C:\inetpub\wwwroot\Attendance\render-register.php on line 116
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP Warning:  Illegal string offset 'TotalDaysAbcent' in C:\inetpub\wwwroot\Attendance\render-register.php on line 131
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP Warning:  Illegal string offset 'registerHTML' in C:\inetpub\wwwroot\Attendance\render-register.php on line 133
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 09:03:01 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 09:03:20 Africa/Johannesburg] PHP Warning:  Illegal string offset 'TotalDaysAbcent' in C:\inetpub\wwwroot\Attendance\render-register.php on line 114
+[28-Mar-2019 09:03:20 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 09:03:20 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 09:03:20 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $punch = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 09:03:20 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 09:05:37 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\inetpub\wwwroot\Attendance\render-register.php on line 245
+[28-Mar-2019 09:06:11 Africa/Johannesburg] PHP Warning:  Illegal string offset 'registerHTML' in C:\inetpub\wwwroot\Attendance\render-register.php on line 116
+[28-Mar-2019 09:06:11 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 09:06:11 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 09:06:11 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 09:06:11 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 09:06:11 Africa/Johannesburg] PHP Warning:  Illegal string offset 'registerHTML' in C:\inetpub\wwwroot\Attendance\render-register.php on line 116
+[28-Mar-2019 09:06:11 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 09:06:11 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 09:06:11 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 09:06:11 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 09:06:11 Africa/Johannesburg] PHP Warning:  Illegal string offset 'registerHTML' in C:\inetpub\wwwroot\Attendance\render-register.php on line 133
+[28-Mar-2019 09:06:11 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 09:06:11 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 09:06:11 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 09:06:11 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 09:06:26 Africa/Johannesburg] PHP Warning:  Illegal string offset 'registerHTML' in C:\inetpub\wwwroot\Attendance\render-register.php on line 116
+[28-Mar-2019 09:06:26 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 09:06:26 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 09:06:26 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $punch = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 09:06:26 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 09:08:23 Africa/Johannesburg] PHP Notice:  Array to string conversion in C:\inetpub\wwwroot\Attendance\render-register.php on line 242
+[28-Mar-2019 09:08:23 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 09:08:23 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 09:08:23 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 09:08:23 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 09:08:36 Africa/Johannesburg] PHP Notice:  Array to string conversion in C:\inetpub\wwwroot\Attendance\render-register.php on line 242
+[28-Mar-2019 09:08:36 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 09:08:36 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 09:08:36 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $punch = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 09:08:36 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 09:30:54 Africa/Johannesburg] PHP Notice:  Array to string conversion in C:\inetpub\wwwroot\Attendance\render-register.php on line 141
+[28-Mar-2019 09:30:54 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 09:30:54 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 09:30:54 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $punch = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 09:30:54 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 07:52:10 UTC] PHP Fatal error:  Uncaught Error: Class 'date' not found in C:\inetpub\wwwroot\Attendance\test.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\test.php on line 22
+[28-Mar-2019 07:52:59 UTC] PHP Warning:  date() expects parameter 2 to be int, object given in C:\inetpub\wwwroot\Attendance\test.php on line 22
+[28-Mar-2019 07:52:59 UTC] PHP Stack trace:
+[28-Mar-2019 07:52:59 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[28-Mar-2019 07:52:59 UTC] PHP   2. date() C:\inetpub\wwwroot\Attendance\test.php:22
+[28-Mar-2019 07:53:16 UTC] PHP Warning:  date() expects parameter 1 to be string, object given in C:\inetpub\wwwroot\Attendance\test.php on line 22
+[28-Mar-2019 07:53:16 UTC] PHP Stack trace:
+[28-Mar-2019 07:53:16 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[28-Mar-2019 07:53:16 UTC] PHP   2. date() C:\inetpub\wwwroot\Attendance\test.php:22
+[28-Mar-2019 07:54:36 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in C:\inetpub\wwwroot\Attendance\test.php on line 23
+[28-Mar-2019 07:54:36 UTC] PHP Stack trace:
+[28-Mar-2019 07:54:36 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\test.php:0
+[28-Mar-2019 12:52:46 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected end of file in C:\inetpub\wwwroot\Attendance\render-register.php on line 264
+[28-Mar-2019 13:35:15 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\inetpub\wwwroot\Attendance\render-register.php:40
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\render-register.php(133): checkLeave(Array, '13-03-2019', '13', 'Wednesday', Object(DateTime), Object(DateTime), false, '<table cellspac...', 0, 0)
+#1 C:\inetpub\wwwroot\Attendance\start.php(101): buildRegister('1', 'March 2019')
+#2 C:\inetpub\wwwroot\Attendance\index.php(215): startPunching('1', 'in')
+#3 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 40
+[28-Mar-2019 14:17:45 Africa/Johannesburg] PHP Notice:  Undefined offset: 0 in C:\inetpub\wwwroot\Attendance\render-register.php on line 25
+[28-Mar-2019 14:17:45 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 14:17:45 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 14:17:45 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $punch = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 14:17:45 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 14:17:45 Africa/Johannesburg] PHP   4. leaveDays($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\render-register.php:120
+[28-Mar-2019 14:17:45 Africa/Johannesburg] PHP Warning:  array_multisort(): Array sizes are inconsistent in C:\inetpub\wwwroot\Attendance\render-register.php on line 25
+[28-Mar-2019 14:17:45 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 14:17:45 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 14:17:45 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $punch = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 14:17:45 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 14:17:45 Africa/Johannesburg] PHP   4. leaveDays($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\render-register.php:120
+[28-Mar-2019 14:17:45 Africa/Johannesburg] PHP   5. array_multisort(*uninitialized*, *uninitialized*, *uninitialized*) C:\inetpub\wwwroot\Attendance\render-register.php:25
+[28-Mar-2019 14:17:58 Africa/Johannesburg] PHP Notice:  Undefined offset: 0 in C:\inetpub\wwwroot\Attendance\render-register.php on line 25
+[28-Mar-2019 14:17:58 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 14:17:58 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 14:17:58 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 14:17:58 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 14:17:58 Africa/Johannesburg] PHP   4. leaveDays() C:\inetpub\wwwroot\Attendance\render-register.php:120
+[28-Mar-2019 14:17:58 Africa/Johannesburg] PHP Warning:  array_multisort(): Array sizes are inconsistent in C:\inetpub\wwwroot\Attendance\render-register.php on line 25
+[28-Mar-2019 14:17:58 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 14:17:58 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 14:17:58 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 14:17:58 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 14:17:58 Africa/Johannesburg] PHP   4. leaveDays() C:\inetpub\wwwroot\Attendance\render-register.php:120
+[28-Mar-2019 14:17:58 Africa/Johannesburg] PHP   5. array_multisort() C:\inetpub\wwwroot\Attendance\render-register.php:25
+[28-Mar-2019 12:42:18 UTC] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(C:\WINDOWS\TEMP) failed: No error (0) in C:\inetpub\wwwroot\Attendance\start.php on line 2
+[28-Mar-2019 12:42:18 UTC] PHP Stack trace:
+[28-Mar-2019 12:42:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 12:42:18 UTC] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:2
+[28-Mar-2019 12:42:18 UTC] PHP   3. session_start() C:\inetpub\wwwroot\Attendance\start.php:2
+[28-Mar-2019 15:19:52 Africa/Johannesburg] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\Attendance\render-register.php on line 40
+[28-Mar-2019 15:19:52 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 15:19:52 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 15:19:52 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 15:19:52 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 15:19:52 Africa/Johannesburg] PHP   4. checkLeave() C:\inetpub\wwwroot\Attendance\render-register.php:142
+[28-Mar-2019 15:19:52 Africa/Johannesburg] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\Attendance\render-register.php on line 40
+[28-Mar-2019 15:19:52 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 15:19:52 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 15:19:52 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 15:19:52 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 15:19:52 Africa/Johannesburg] PHP   4. checkLeave() C:\inetpub\wwwroot\Attendance\render-register.php:142
+[28-Mar-2019 15:19:52 Africa/Johannesburg] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\Attendance\render-register.php on line 40
+[28-Mar-2019 15:19:52 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 15:19:52 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 15:19:52 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 15:19:52 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 15:19:52 Africa/Johannesburg] PHP   4. checkLeave() C:\inetpub\wwwroot\Attendance\render-register.php:142
+[28-Mar-2019 15:20:15 Africa/Johannesburg] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\Attendance\render-register.php on line 40
+[28-Mar-2019 15:20:15 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 15:20:15 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 15:20:15 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $punch = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 15:20:15 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 15:20:15 Africa/Johannesburg] PHP   4. checkLeave($leaveDays = *uninitialized*, $runningDate = *uninitialized*, $dayNumber = *uninitialized*, $day = *uninitialized*, $present = *uninitialized*, $currentDate = *uninitialized*, $isFuture = *uninitialized*, $registerHTML = *uninitialized*, $TotalDaysLeave = *uninitialized*, $TotalDaysAbcent = *uninitialized*) C:\inetpub\wwwroot\Attendance\render-register.php:142
+[28-Mar-2019 18:38:29 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in C:\inetpub\wwwroot\Attendance\render-register.php:12
+Stack trace:
+#0 C:\inetpub\wwwroot\Attendance\render-register.php(108): leaveDays('1', 'March 2019')
+#1 C:\inetpub\wwwroot\Attendance\start.php(101): buildRegister('1', 'March 2019')
+#2 C:\inetpub\wwwroot\Attendance\index.php(215): startPunching('1', 'in')
+#3 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\render-register.php on line 12
+[28-Mar-2019 18:39:24 Africa/Johannesburg] PHP Notice:  Undefined offset: 3 in C:\inetpub\wwwroot\Attendance\render-register.php on line 68
+[28-Mar-2019 18:39:24 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 18:39:24 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 18:39:24 Africa/Johannesburg] PHP   2. startPunching() C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 18:39:24 Africa/Johannesburg] PHP   3. buildRegister() C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 18:39:24 Africa/Johannesburg] PHP   4. checkLeave() C:\inetpub\wwwroot\Attendance\render-register.php:124
+[28-Mar-2019 18:40:07 Africa/Johannesburg] PHP Notice:  Undefined offset: 3 in C:\inetpub\wwwroot\Attendance\render-register.php on line 68
+[28-Mar-2019 18:40:07 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 18:40:07 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 18:40:07 Africa/Johannesburg] PHP   2. startPunching($UserID = *uninitialized*, $punch = *uninitialized*) C:\inetpub\wwwroot\Attendance\index.php:215
+[28-Mar-2019 18:40:07 Africa/Johannesburg] PHP   3. buildRegister($UserID = *uninitialized*, $month = *uninitialized*) C:\inetpub\wwwroot\Attendance\start.php:101
+[28-Mar-2019 18:40:07 Africa/Johannesburg] PHP   4. checkLeave($leaveDays = *uninitialized*, $runningDate = *uninitialized*, $dayNumber = *uninitialized*, $day = *uninitialized*, $isFuture = *uninitialized*, $registerHTML = *uninitialized*, $TotalDaysLeave = *uninitialized*, $TotalDaysAbcent = *uninitialized*) C:\inetpub\wwwroot\Attendance\render-register.php:124
+[28-Mar-2019 21:04:33 Africa/Johannesburg] PHP Notice:  Undefined index: leavefrom in C:\inetpub\wwwroot\Attendance\bookleave.php on line 27
+[28-Mar-2019 21:04:33 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 21:04:33 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[28-Mar-2019 21:04:33 Africa/Johannesburg] PHP Notice:  Undefined index: leaveto in C:\inetpub\wwwroot\Attendance\bookleave.php on line 28
+[28-Mar-2019 21:04:33 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 21:04:33 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[28-Mar-2019 21:05:27 Africa/Johannesburg] PHP Notice:  Undefined index: leavefrom in C:\inetpub\wwwroot\Attendance\bookleave.php on line 27
+[28-Mar-2019 21:05:27 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 21:05:27 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[28-Mar-2019 21:06:36 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in C:\inetpub\wwwroot\Attendance\bookleave.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\bookleave.php on line 27
+[28-Mar-2019 21:06:36 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 21:06:36 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[28-Mar-2019 21:13:24 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in C:\inetpub\wwwroot\Attendance\bookleave.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\inetpub\wwwroot\Attendance\bookleave.php on line 27
+[28-Mar-2019 21:13:24 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 21:13:24 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[28-Mar-2019 21:23:29 Africa/Johannesburg] PHP Warning:  simplexml_load_file(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[28-Mar-2019 21:23:29 Africa/Johannesburg] PHP Stack trace:
+[28-Mar-2019 21:23:29 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[28-Mar-2019 21:23:29 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[28-Mar-2019 21:23:29 Africa/Johannesburg] PHP   3. simplexml_load_file(*uninitialized*) C:\inetpub\wwwroot\Attendance\quotes.php:5
+[29-Mar-2019 08:35:35 Africa/Johannesburg] PHP Notice:  Undefined index: UserID in C:\inetpub\wwwroot\Attendance\bookleave.php on line 26
+[29-Mar-2019 08:35:35 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 08:35:35 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 08:35:35 Africa/Johannesburg] PHP Notice:  Undefined index: currentMonth in C:\inetpub\wwwroot\Attendance\bookleave.php on line 27
+[29-Mar-2019 08:35:35 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 08:35:35 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 08:36:02 Africa/Johannesburg] PHP Notice:  Undefined index: UserID in C:\inetpub\wwwroot\Attendance\bookleave.php on line 26
+[29-Mar-2019 08:36:02 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 08:36:02 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 08:42:10 Africa/Johannesburg] PHP Notice:  Undefined index: currentMonth in C:\inetpub\wwwroot\Attendance\bookleave.php on line 27
+[29-Mar-2019 08:42:10 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 08:42:10 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 08:46:01 Africa/Johannesburg] PHP Notice:  Undefined index: currentMonth in C:\inetpub\wwwroot\Attendance\bookleave.php on line 27
+[29-Mar-2019 08:46:01 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 08:46:01 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 08:46:42 Africa/Johannesburg] PHP Notice:  Undefined index: currentMonth in C:\inetpub\wwwroot\Attendance\bookleave.php on line 27
+[29-Mar-2019 08:46:42 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 08:46:42 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 09:08:46 Africa/Johannesburg] PHP Notice:  Undefined index: UserID in C:\inetpub\wwwroot\Attendance\bookleave.php on line 26
+[29-Mar-2019 09:08:46 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 09:08:46 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 09:08:46 Africa/Johannesburg] PHP Notice:  Undefined index: UserID in C:\inetpub\wwwroot\Attendance\bookleave.php on line 26
+[29-Mar-2019 09:08:46 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 09:08:46 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 11:09:18 Africa/Johannesburg] PHP Notice:  Undefined index: UserID in C:\inetpub\wwwroot\Attendance\bookleave.php on line 26
+[29-Mar-2019 11:09:18 Africa/Johannesburg] PHP Notice:  Undefined index: UserID in C:\inetpub\wwwroot\Attendance\bookleave.php on line 26
+[29-Mar-2019 11:09:18 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 11:09:18 Africa/Johannesburg] PHP Notice:  Undefined index: UserID in C:\inetpub\wwwroot\Attendance\bookleave.php on line 26
+[29-Mar-2019 11:09:18 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 11:09:18 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 11:09:18 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 11:09:18 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 11:09:18 Africa/Johannesburg] PHP Notice:  Undefined index: currentMonth in C:\inetpub\wwwroot\Attendance\bookleave.php on line 27
+[29-Mar-2019 11:09:18 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 11:09:18 Africa/Johannesburg] PHP Notice:  Undefined index: currentMonth in C:\inetpub\wwwroot\Attendance\bookleave.php on line 27
+[29-Mar-2019 11:09:18 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 11:09:18 Africa/Johannesburg] PHP Notice:  Undefined index: currentMonth in C:\inetpub\wwwroot\Attendance\bookleave.php on line 27
+[29-Mar-2019 11:09:18 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 11:09:18 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 11:09:18 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 11:09:18 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 11:09:18 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 11:09:19 Africa/Johannesburg] PHP Notice:  Undefined index: UserID in C:\inetpub\wwwroot\Attendance\bookleave.php on line 26
+[29-Mar-2019 11:09:19 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 11:09:19 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 11:09:19 Africa/Johannesburg] PHP Notice:  Undefined index: currentMonth in C:\inetpub\wwwroot\Attendance\bookleave.php on line 27
+[29-Mar-2019 11:09:19 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 11:09:19 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 11:09:19 Africa/Johannesburg] PHP Notice:  Undefined index: UserID in C:\inetpub\wwwroot\Attendance\bookleave.php on line 26
+[29-Mar-2019 11:09:19 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 11:09:19 Africa/Johannesburg] PHP Notice:  Undefined index: UserID in C:\inetpub\wwwroot\Attendance\bookleave.php on line 26
+[29-Mar-2019 11:09:19 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 11:09:19 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 11:09:19 Africa/Johannesburg] PHP Notice:  Undefined index: currentMonth in C:\inetpub\wwwroot\Attendance\bookleave.php on line 27
+[29-Mar-2019 11:09:19 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 11:09:19 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 11:09:19 Africa/Johannesburg] PHP Notice:  Undefined index: currentMonth in C:\inetpub\wwwroot\Attendance\bookleave.php on line 27
+[29-Mar-2019 11:09:19 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 11:09:19 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 11:09:19 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 11:28:13 Africa/Johannesburg] PHP Notice:  Undefined index: leaveTo in C:\inetpub\wwwroot\Attendance\bookleave.php on line 49
+[29-Mar-2019 11:28:13 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 11:28:13 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 11:28:15 Africa/Johannesburg] PHP Notice:  Undefined index: leaveTo in C:\inetpub\wwwroot\Attendance\bookleave.php on line 49
+[29-Mar-2019 11:28:15 Africa/Johannesburg] PHP Notice:  Undefined index: leaveTo in C:\inetpub\wwwroot\Attendance\bookleave.php on line 49
+[29-Mar-2019 11:28:15 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 11:28:15 Africa/Johannesburg] PHP Stack trace:
+[29-Mar-2019 11:28:15 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[29-Mar-2019 11:28:15 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP Warning:  simplexml_load_file(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP Stack trace:
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP   3. simplexml_load_file() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP Warning:  simplexml_load_file(https://www.brainyquote.com/link/quotefu.rss): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP Stack trace:
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP   3. simplexml_load_file() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.brainyquote.com/link/quotefu.rss&quot; in C:\inetpub\wwwroot\Attendance\quotes.php on line 5
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP Stack trace:
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP   3. simplexml_load_file() C:\inetpub\wwwroot\Attendance\quotes.php:5
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP Notice:  Trying to get property 'channel' of non-object in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP Stack trace:
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP Notice:  Trying to get property 'item' of non-object in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP Stack trace:
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP Warning:  Invalid argument supplied for foreach() in C:\inetpub\wwwroot\Attendance\quotes.php on line 6
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP Stack trace:
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\index.php:0
+[30-Mar-2019 07:40:21 Africa/Johannesburg] PHP   2. require() C:\inetpub\wwwroot\Attendance\index.php:52
+[30-Mar-2019 07:46:02 Africa/Johannesburg] PHP Notice:  Undefined variable: leaveTo in C:\inetpub\wwwroot\Attendance\bookleave.php on line 51
+[30-Mar-2019 07:46:02 Africa/Johannesburg] PHP Stack trace:
+[30-Mar-2019 07:46:02 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[30-Mar-2019 07:46:03 Africa/Johannesburg] PHP Notice:  Undefined variable: leaveTo in C:\inetpub\wwwroot\Attendance\bookleave.php on line 51
+[30-Mar-2019 07:46:03 Africa/Johannesburg] PHP Notice:  Undefined variable: leaveTo in C:\inetpub\wwwroot\Attendance\bookleave.php on line 51
+[30-Mar-2019 07:46:03 Africa/Johannesburg] PHP Stack trace:
+[30-Mar-2019 07:46:03 Africa/Johannesburg] PHP Stack trace:
+[30-Mar-2019 07:46:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[30-Mar-2019 07:46:03 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[30-Mar-2019 07:46:43 Africa/Johannesburg] PHP Notice:  Undefined variable: leaveTo in C:\inetpub\wwwroot\Attendance\bookleave.php on line 51
+[30-Mar-2019 07:46:43 Africa/Johannesburg] PHP Stack trace:
+[30-Mar-2019 07:46:43 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[30-Mar-2019 08:00:32 Africa/Johannesburg] PHP Notice:  Undefined variable: leaveTo in C:\inetpub\wwwroot\Attendance\bookleave.php on line 51
+[30-Mar-2019 08:00:32 Africa/Johannesburg] PHP Notice:  Undefined variable: leaveTo in C:\inetpub\wwwroot\Attendance\bookleave.php on line 51
+[30-Mar-2019 08:00:32 Africa/Johannesburg] PHP Stack trace:
+[30-Mar-2019 08:00:32 Africa/Johannesburg] PHP Stack trace:
+[30-Mar-2019 08:00:32 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
+[30-Mar-2019 08:00:32 Africa/Johannesburg] PHP   1. {main}() C:\inetpub\wwwroot\Attendance\bookleave.php:0
